@@ -35,6 +35,7 @@ header {
   border-radius: 50%;
   object-fit: cover;
   border: 3px solid #0077cc;
+  margin-top: 20px;
 }
 
 .profile-details h1 {
