@@ -163,7 +163,7 @@ section h2 i {
 .language-list li {
   display: flex;
   justify-content: space-between;
-  width: 200px;
+/*   width: 200px; */
 }
 
 .proficiency {
