@@ -157,13 +157,13 @@ section h2 i {
   list-style-type: none;
   display: flex;
   flex-wrap: wrap;
-  gap: 20px;
+  gap: 60px;
 }
 
 .language-list li {
   display: flex;
   justify-content: space-between;
-/*   width: 200px; */
+  width: 200px;
 }
 
 .proficiency {
