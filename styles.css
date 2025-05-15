@@ -29,14 +29,6 @@ header {
   gap: 30px;
 }
 
-/* 确保父级容器有固定的高度，并且使用Flexbox */
-.profile-image {
-  display: flex;
-  justify-content: center; /* 水平居中 */
-  align-items: center; /* 垂直居中 */
-  height: 200px; /* 根据需要调整高度 */
-}
-
 .profile-image img {
   width: 150px;
   height: 150px;
